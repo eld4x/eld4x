@@ -1,6 +1,6 @@
-## About me. 
+## Acerca de mí. 
 
-#
+# Algún día lo actualizaré
 <!--
 **eld4x/eld4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
